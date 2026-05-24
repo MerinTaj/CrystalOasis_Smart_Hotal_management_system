@@ -1,0 +1,259 @@
+F:\c#\CrystalOasis\obj\Debug\CrystalOasis.csproj.AssemblyReference.cache
+F:\c#\CrystalOasis\obj\Debug\CrystalOasis.Resource1.resources
+F:\c#\CrystalOasis\obj\Debug\CrystalOasis.csproj.GenerateResource.cache
+F:\c#\CrystalOasis\obj\Debug\CrystalOasis.Properties.Resources.resources
+F:\c#\CrystalOasis\obj\Debug\CrystalOasis.csproj.CoreCompileInputs.cache
+F:\c#\CrystalOasis\bin\Debug\CrystalOasis.exe.config
+F:\c#\CrystalOasis\bin\Debug\CrystalOasis.exe
+F:\c#\CrystalOasis\bin\Debug\CrystalOasis.pdb
+F:\c#\CrystalOasis\obj\Debug\CrystalOasis.exe
+F:\c#\CrystalOasis\obj\Debug\CrystalOasis.pdb
+F:\c#\CrystalOasis\obj\Debug\CrystalOasis.Welcome.resources
+F:\c#\CrystalOasis\obj\Debug\CrystalOasis.login.resources
+F:\c#\CrystalOasis\obj\Debug\CrystalOasis.Poplogin.resources
+F:\c#\CrystalOasis\obj\Debug\CrystalOasis.Register.resources
+F:\c#\CrystalOasis\obj\Debug\CrystalOasis.Resource2.resources
+F:\c#\CrystalOasis\obj\Debug\CrystalOasis.Resource3.resources
+F:\c#\CrystalOasis\obj\Debug\CrystalOasis.About_us.resources
+F:\c#\CrystalOasis\obj\Debug\CrystalOasis.Resource4.resources
+F:\c#\CrystalOasis\obj\Debug\CrystalOasis.Resource5.resources
+F:\c#\CrystalOasis\obj\Debug\CrystalOasis.Resource6.resources
+F:\c#\CrystalOasis\obj\Debug\CrystalOasis.Resource7.resources
+F:\c#\CrystalOasis\obj\Debug\CrystalOasis.Resetpassword.resources
+F:\c#\CrystalOasis\obj\Debug\CrystalOasis.SendCode.resources
+F:\source\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.csproj.AssemblyReference.cache
+F:\source\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.exe
+F:\source\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.pdb
+F:\source\CrystalOasis\CrystalOasis\bin\Debug\CrystalOasis.exe.config
+F:\source\CrystalOasis\CrystalOasis\bin\Debug\CrystalOasis.exe
+F:\source\CrystalOasis\CrystalOasis\bin\Debug\CrystalOasis.pdb
+F:\source\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.About_us.resources
+F:\source\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.login.resources
+F:\source\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Properties.Resources.resources
+F:\source\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Register.resources
+F:\source\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Resetpassword.resources
+F:\source\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Resource1.resources
+F:\source\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Resource2.resources
+F:\source\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Resource3.resources
+F:\source\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Resource4.resources
+F:\source\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Resource5.resources
+F:\source\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Resource6.resources
+F:\source\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Resource7.resources
+F:\source\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.SendCode.resources
+F:\source\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Welcome.resources
+F:\source\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.csproj.GenerateResource.cache
+F:\source\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.csproj.CoreCompileInputs.cache
+F:\source\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.AdminDashboard.resources
+F:\source\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.CustomerDashboard.resources
+F:\source\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Manage_Guest.resources
+F:\source\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Manage_Room.resources
+F:\source\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Poplogin.resources
+F:\source\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Manage_Staff.resources
+F:\source\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Manage_Reservation.resources
+F:\source\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Manage_Admin.resources
+F:\source\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Manage_Service.resources
+C:\Users\User\Downloads\CrystalOasis (1)\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\CrystalOasis (1)\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.exe
+C:\Users\User\Downloads\CrystalOasis (1)\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.pdb
+C:\Users\User\Downloads\crystal1\CrystalOasis\CrystalOasis\bin\Debug\CrystalOasis.exe.config
+C:\Users\User\Downloads\crystal1\CrystalOasis\CrystalOasis\bin\Debug\CrystalOasis.exe
+C:\Users\User\Downloads\crystal1\CrystalOasis\CrystalOasis\bin\Debug\CrystalOasis.pdb
+C:\Users\User\Downloads\crystal1\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\crystal1\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.About_us.resources
+C:\Users\User\Downloads\crystal1\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.AdminDashboard.resources
+C:\Users\User\Downloads\crystal1\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.CustomerDashboard.resources
+C:\Users\User\Downloads\crystal1\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.login.resources
+C:\Users\User\Downloads\crystal1\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Manage_Admin.resources
+C:\Users\User\Downloads\crystal1\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Manage_Guest.resources
+C:\Users\User\Downloads\crystal1\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Manage_Reservation.resources
+C:\Users\User\Downloads\crystal1\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Manage_Room.resources
+C:\Users\User\Downloads\crystal1\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Manage_Service.resources
+C:\Users\User\Downloads\crystal1\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Manage_Staff.resources
+C:\Users\User\Downloads\crystal1\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Poplogin.resources
+C:\Users\User\Downloads\crystal1\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Properties.Resources.resources
+C:\Users\User\Downloads\crystal1\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Register.resources
+C:\Users\User\Downloads\crystal1\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Resetpassword.resources
+C:\Users\User\Downloads\crystal1\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Resource1.resources
+C:\Users\User\Downloads\crystal1\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Resource2.resources
+C:\Users\User\Downloads\crystal1\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Resource3.resources
+C:\Users\User\Downloads\crystal1\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Resource4.resources
+C:\Users\User\Downloads\crystal1\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Resource5.resources
+C:\Users\User\Downloads\crystal1\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Resource6.resources
+C:\Users\User\Downloads\crystal1\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Resource7.resources
+C:\Users\User\Downloads\crystal1\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.SendCode.resources
+C:\Users\User\Downloads\crystal1\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Welcome.resources
+C:\Users\User\Downloads\crystal1\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.csproj.GenerateResource.cache
+C:\Users\User\Downloads\crystal1\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\crystal1\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.exe
+C:\Users\User\Downloads\crystal1\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.pdb
+C:\Users\User\Downloads\crystal1\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Rooms.resources
+C:\Users\User\Downloads\crystal1\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Resource8.resources
+C:\Users\User\Downloads\crystal1\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Resource9.resources
+C:\Users\User\Downloads\crystal1\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Resource10.resources
+C:\Users\User\Downloads\crystal1\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Resource11.resources
+C:\Users\User\Downloads\crystal1\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Resources.Resource1.resources
+C:\Users\User\Downloads\crystal1\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Properties.Resource1.resources
+C:\Users\User\Downloads\crystal1\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Resource12.resources
+C:\Users\User\Downloads\crystal1\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Conformation.resources
+C:\Users\User\Downloads\crystal1\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Payment.resources
+C:\Users\User\Downloads\crystal1\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Service.resources
+C:\Users\User\Downloads\crystal1\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Vehicle.resources
+C:\Users\HP PAVILION\Downloads\CrystalOasis\CrystalOasis\bin\Debug\CrystalOasis.exe.config
+C:\Users\HP PAVILION\Downloads\CrystalOasis\CrystalOasis\bin\Debug\CrystalOasis.exe
+C:\Users\HP PAVILION\Downloads\CrystalOasis\CrystalOasis\bin\Debug\CrystalOasis.pdb
+C:\Users\HP PAVILION\Downloads\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.csproj.AssemblyReference.cache
+C:\Users\HP PAVILION\Downloads\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.About_us.resources
+C:\Users\HP PAVILION\Downloads\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.AdminDashboard.resources
+C:\Users\HP PAVILION\Downloads\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Conformation.resources
+C:\Users\HP PAVILION\Downloads\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.CustomerDashboard.resources
+C:\Users\HP PAVILION\Downloads\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.login.resources
+C:\Users\HP PAVILION\Downloads\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Manage_Admin.resources
+C:\Users\HP PAVILION\Downloads\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Manage_Guest.resources
+C:\Users\HP PAVILION\Downloads\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Manage_Reservation.resources
+C:\Users\HP PAVILION\Downloads\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Manage_Room.resources
+C:\Users\HP PAVILION\Downloads\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Manage_Service.resources
+C:\Users\HP PAVILION\Downloads\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Manage_Staff.resources
+C:\Users\HP PAVILION\Downloads\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Payment.resources
+C:\Users\HP PAVILION\Downloads\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Poplogin.resources
+C:\Users\HP PAVILION\Downloads\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Properties.Resource1.resources
+C:\Users\HP PAVILION\Downloads\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Properties.Resources.resources
+C:\Users\HP PAVILION\Downloads\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Register.resources
+C:\Users\HP PAVILION\Downloads\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Resetpassword.resources
+C:\Users\HP PAVILION\Downloads\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Resource1.resources
+C:\Users\HP PAVILION\Downloads\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Resource10.resources
+C:\Users\HP PAVILION\Downloads\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Resource11.resources
+C:\Users\HP PAVILION\Downloads\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Resource12.resources
+C:\Users\HP PAVILION\Downloads\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Resource2.resources
+C:\Users\HP PAVILION\Downloads\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Resource3.resources
+C:\Users\HP PAVILION\Downloads\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Resource4.resources
+C:\Users\HP PAVILION\Downloads\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Resource5.resources
+C:\Users\HP PAVILION\Downloads\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Resource6.resources
+C:\Users\HP PAVILION\Downloads\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Resource7.resources
+C:\Users\HP PAVILION\Downloads\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Resource8.resources
+C:\Users\HP PAVILION\Downloads\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Resource9.resources
+C:\Users\HP PAVILION\Downloads\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Resources.Resource1.resources
+C:\Users\HP PAVILION\Downloads\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Rooms.resources
+C:\Users\HP PAVILION\Downloads\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.SendCode.resources
+C:\Users\HP PAVILION\Downloads\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Service.resources
+C:\Users\HP PAVILION\Downloads\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Vehicle.resources
+C:\Users\HP PAVILION\Downloads\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Welcome.resources
+C:\Users\HP PAVILION\Downloads\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.csproj.GenerateResource.cache
+C:\Users\HP PAVILION\Downloads\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.csproj.CoreCompileInputs.cache
+C:\Users\HP PAVILION\Downloads\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.exe
+C:\Users\HP PAVILION\Downloads\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.pdb
+C:\Users\HP PAVILION\Downloads\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.StaffDB.resources
+C:\Users\HP PAVILION\Downloads\CrystalOasis\CrystalOasis\obj\Debug\CrystalOasis.Manage_Vehicles.resources
+C:\Users\User\Downloads\CrystalOasisfinal\myhotel\CrystalOasis\bin\Debug\CrystalOasis.exe.config
+C:\Users\User\Downloads\CrystalOasisfinal\myhotel\CrystalOasis\bin\Debug\CrystalOasis.exe
+C:\Users\User\Downloads\CrystalOasisfinal\myhotel\CrystalOasis\bin\Debug\CrystalOasis.pdb
+C:\Users\User\Downloads\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.About_us.resources
+C:\Users\User\Downloads\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.AdminDashboard.resources
+C:\Users\User\Downloads\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Conformation.resources
+C:\Users\User\Downloads\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.CustomerDashboard.resources
+C:\Users\User\Downloads\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.login.resources
+C:\Users\User\Downloads\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Manage_Admin.resources
+C:\Users\User\Downloads\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Manage_Guest.resources
+C:\Users\User\Downloads\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Manage_Reservation.resources
+C:\Users\User\Downloads\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Manage_Room.resources
+C:\Users\User\Downloads\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Manage_Service.resources
+C:\Users\User\Downloads\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Manage_Staff.resources
+C:\Users\User\Downloads\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Manage_Vehicles.resources
+C:\Users\User\Downloads\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Payment.resources
+C:\Users\User\Downloads\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Poplogin.resources
+C:\Users\User\Downloads\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Properties.Resource1.resources
+C:\Users\User\Downloads\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Properties.Resources.resources
+C:\Users\User\Downloads\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Register.resources
+C:\Users\User\Downloads\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Resetpassword.resources
+C:\Users\User\Downloads\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Resource1.resources
+C:\Users\User\Downloads\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Resource10.resources
+C:\Users\User\Downloads\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Resource11.resources
+C:\Users\User\Downloads\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Resource12.resources
+C:\Users\User\Downloads\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Resource2.resources
+C:\Users\User\Downloads\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Resource3.resources
+C:\Users\User\Downloads\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Resource4.resources
+C:\Users\User\Downloads\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Resource5.resources
+C:\Users\User\Downloads\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Resource6.resources
+C:\Users\User\Downloads\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Resource7.resources
+C:\Users\User\Downloads\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Resource8.resources
+C:\Users\User\Downloads\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Resource9.resources
+C:\Users\User\Downloads\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Resources.Resource1.resources
+C:\Users\User\Downloads\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Rooms.resources
+C:\Users\User\Downloads\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.SendCode.resources
+C:\Users\User\Downloads\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Service.resources
+C:\Users\User\Downloads\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.StaffDB.resources
+C:\Users\User\Downloads\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Vehicle.resources
+C:\Users\User\Downloads\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Welcome.resources
+C:\Users\User\Downloads\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.csproj.GenerateResource.cache
+C:\Users\User\Downloads\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.exe
+C:\Users\User\Downloads\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.pdb
+C:\Users\merin\Downloads\CrystalOasisfinal\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.csproj.AssemblyReference.cache
+C:\Users\merin\Downloads\CrystalOasisfinal\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.exe.config
+C:\Users\merin\Downloads\CrystalOasisfinal\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.exe
+C:\Users\merin\Downloads\CrystalOasisfinal\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.pdb
+C:\Users\merin\Downloads\CrystalOasisfinal\CrystalOasisfinal\myhotel\CrystalOasis\bin\Debug\CrystalOasis.exe.config
+C:\Users\merin\Downloads\CrystalOasisfinal\CrystalOasisfinal\myhotel\CrystalOasis\bin\Debug\CrystalOasis.exe
+C:\Users\merin\Downloads\CrystalOasisfinal\CrystalOasisfinal\myhotel\CrystalOasis\bin\Debug\CrystalOasis.pdb
+C:\Users\merin\Downloads\CrystalOasisfinal\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.About_us.resources
+C:\Users\merin\Downloads\CrystalOasisfinal\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.AdminDashboard.resources
+C:\Users\merin\Downloads\CrystalOasisfinal\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Conformation.resources
+C:\Users\merin\Downloads\CrystalOasisfinal\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.CustomerDashboard.resources
+C:\Users\merin\Downloads\CrystalOasisfinal\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.login.resources
+C:\Users\merin\Downloads\CrystalOasisfinal\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Manage_Admin.resources
+C:\Users\merin\Downloads\CrystalOasisfinal\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Manage_Guest.resources
+C:\Users\merin\Downloads\CrystalOasisfinal\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Manage_Reservation.resources
+C:\Users\merin\Downloads\CrystalOasisfinal\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Manage_Room.resources
+C:\Users\merin\Downloads\CrystalOasisfinal\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Manage_Service.resources
+C:\Users\merin\Downloads\CrystalOasisfinal\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Manage_Staff.resources
+C:\Users\merin\Downloads\CrystalOasisfinal\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Manage_Vehicles.resources
+C:\Users\merin\Downloads\CrystalOasisfinal\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Payment.resources
+C:\Users\merin\Downloads\CrystalOasisfinal\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Poplogin.resources
+C:\Users\merin\Downloads\CrystalOasisfinal\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Properties.Resource1.resources
+C:\Users\merin\Downloads\CrystalOasisfinal\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Properties.Resources.resources
+C:\Users\merin\Downloads\CrystalOasisfinal\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Register.resources
+C:\Users\merin\Downloads\CrystalOasisfinal\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Resetpassword.resources
+C:\Users\merin\Downloads\CrystalOasisfinal\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Resource1.resources
+C:\Users\merin\Downloads\CrystalOasisfinal\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Resource10.resources
+C:\Users\merin\Downloads\CrystalOasisfinal\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Resource11.resources
+C:\Users\merin\Downloads\CrystalOasisfinal\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Resource12.resources
+C:\Users\merin\Downloads\CrystalOasisfinal\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Resource2.resources
+C:\Users\merin\Downloads\CrystalOasisfinal\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Resource3.resources
+C:\Users\merin\Downloads\CrystalOasisfinal\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Resource4.resources
+C:\Users\merin\Downloads\CrystalOasisfinal\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Resource5.resources
+C:\Users\merin\Downloads\CrystalOasisfinal\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Resource6.resources
+C:\Users\merin\Downloads\CrystalOasisfinal\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Resource7.resources
+C:\Users\merin\Downloads\CrystalOasisfinal\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Resource8.resources
+C:\Users\merin\Downloads\CrystalOasisfinal\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Resource9.resources
+C:\Users\merin\Downloads\CrystalOasisfinal\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Resources.Resource1.resources
+C:\Users\merin\Downloads\CrystalOasisfinal\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Rooms.resources
+C:\Users\merin\Downloads\CrystalOasisfinal\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.SendCode.resources
+C:\Users\merin\Downloads\CrystalOasisfinal\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Service.resources
+C:\Users\merin\Downloads\CrystalOasisfinal\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.StaffDB.resources
+C:\Users\merin\Downloads\CrystalOasisfinal\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Vehicle.resources
+C:\Users\merin\Downloads\CrystalOasisfinal\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.Welcome.resources
+C:\Users\merin\Downloads\CrystalOasisfinal\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.csproj.GenerateResource.cache
+C:\Users\merin\Downloads\CrystalOasisfinal\CrystalOasisfinal\myhotel\CrystalOasis\obj\Debug\CrystalOasis.csproj.CoreCompileInputs.cache
+F:\c#\CrystalOasis\obj\Debug\CrystalOasis.exe.config
+F:\c#\CrystalOasis\obj\Debug\CrystalOasis.AdminDashboard.resources
+F:\c#\CrystalOasis\obj\Debug\CrystalOasis.Conformation.resources
+F:\c#\CrystalOasis\obj\Debug\CrystalOasis.CustomerDashboard.resources
+F:\c#\CrystalOasis\obj\Debug\CrystalOasis.Manage_Admin.resources
+F:\c#\CrystalOasis\obj\Debug\CrystalOasis.Manage_Guest.resources
+F:\c#\CrystalOasis\obj\Debug\CrystalOasis.Manage_Reservation.resources
+F:\c#\CrystalOasis\obj\Debug\CrystalOasis.Manage_Room.resources
+F:\c#\CrystalOasis\obj\Debug\CrystalOasis.Manage_Service.resources
+F:\c#\CrystalOasis\obj\Debug\CrystalOasis.Manage_Staff.resources
+F:\c#\CrystalOasis\obj\Debug\CrystalOasis.Manage_Vehicles.resources
+F:\c#\CrystalOasis\obj\Debug\CrystalOasis.Payment.resources
+F:\c#\CrystalOasis\obj\Debug\CrystalOasis.Properties.Resource1.resources
+F:\c#\CrystalOasis\obj\Debug\CrystalOasis.Resource10.resources
+F:\c#\CrystalOasis\obj\Debug\CrystalOasis.Resource11.resources
+F:\c#\CrystalOasis\obj\Debug\CrystalOasis.Resource12.resources
+F:\c#\CrystalOasis\obj\Debug\CrystalOasis.Resource8.resources
+F:\c#\CrystalOasis\obj\Debug\CrystalOasis.Resource9.resources
+F:\c#\CrystalOasis\obj\Debug\CrystalOasis.Resources.Resource1.resources
+F:\c#\CrystalOasis\obj\Debug\CrystalOasis.Rooms.resources
+F:\c#\CrystalOasis\obj\Debug\CrystalOasis.Service.resources
+F:\c#\CrystalOasis\obj\Debug\CrystalOasis.StaffDB.resources
+F:\c#\CrystalOasis\obj\Debug\CrystalOasis.Vehicle.resources

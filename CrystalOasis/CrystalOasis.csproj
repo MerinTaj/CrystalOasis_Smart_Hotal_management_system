@@ -1,0 +1,554 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{48708235-5E5F-4515-AF98-F96FEC60607F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>CrystalOasis</RootNamespace>
+    <AssemblyName>CrystalOasis</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About_us.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="About_us.Designer.cs">
+      <DependentUpon>About_us.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminDB.Designer.cs">
+      <DependentUpon>AdminDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Conformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Conformation.Designer.cs">
+      <DependentUpon>Conformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GuestDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GuestDB.Designer.cs">
+      <DependentUpon>GuestDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllLoadData.cs" />
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manage_Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage_Admin.Designer.cs">
+      <DependentUpon>Manage_Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manage_Guest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage_Guest.Designer.cs">
+      <DependentUpon>Manage_Guest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manage_Reservation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage_Reservation.Designer.cs">
+      <DependentUpon>Manage_Reservation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manage_Room.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage_Room.Designer.cs">
+      <DependentUpon>Manage_Room.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manage_Service.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage_Service.Designer.cs">
+      <DependentUpon>Manage_Service.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manage_Staff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage_Staff.Designer.cs">
+      <DependentUpon>Manage_Staff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manage_Vehicles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage_Vehicles.Designer.cs">
+      <DependentUpon>Manage_Vehicles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Payment .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Payment .Designer.cs">
+      <DependentUpon>Payment .cs</DependentUpon>
+    </Compile>
+    <Compile Include="Poplogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Poplogin.Designer.cs">
+      <DependentUpon>Poplogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resource1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resource1.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Register.Designer.cs">
+      <DependentUpon>Register.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Resetpassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resetpassword.Designer.cs">
+      <DependentUpon>Resetpassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Resource1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resource1.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Resource10.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resource10.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Resource11.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resource11.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Resource12.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resource12.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Resource2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resource2.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Resource3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resource3.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Resource4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resource4.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Resource5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resource5.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Resource6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resource6.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Resource7.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resource7.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Resource8.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resource8.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Resource9.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resource9.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Resource1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resource1.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Rooms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rooms.Designer.cs">
+      <DependentUpon>Rooms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SendCode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SendCode.Designer.cs">
+      <DependentUpon>SendCode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Service.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Service.Designer.cs">
+      <DependentUpon>Service.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StaffDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffDB.Designer.cs">
+      <DependentUpon>StaffDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vehicle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vehicle.Designer.cs">
+      <DependentUpon>Vehicle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Welcome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Welcome.Designer.cs">
+      <DependentUpon>Welcome.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="About_us.resx">
+      <DependentUpon>About_us.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminDB.resx">
+      <DependentUpon>AdminDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Conformation.resx">
+      <DependentUpon>Conformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GuestDB.resx">
+      <DependentUpon>GuestDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage_Admin.resx">
+      <DependentUpon>Manage_Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage_Guest.resx">
+      <DependentUpon>Manage_Guest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage_Reservation.resx">
+      <DependentUpon>Manage_Reservation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage_Room.resx">
+      <DependentUpon>Manage_Room.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage_Service.resx">
+      <DependentUpon>Manage_Service.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage_Staff.resx">
+      <DependentUpon>Manage_Staff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage_Vehicles.resx">
+      <DependentUpon>Manage_Vehicles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Payment .resx">
+      <DependentUpon>Payment .cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Poplogin.resx">
+      <DependentUpon>Poplogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resource1.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource1.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Register.resx">
+      <DependentUpon>Register.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resetpassword.resx">
+      <DependentUpon>Resetpassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resource1.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource1.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resource10.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource10.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resource11.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource11.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resource12.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource12.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resource2.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource2.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resource3.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource3.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resource4.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource4.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resource5.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource5.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resource6.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource6.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resource7.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource7.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resource8.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource8.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resource9.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource9.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Resource1.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource1.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rooms.resx">
+      <DependentUpon>Rooms.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SendCode.resx">
+      <DependentUpon>SendCode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Service.resx">
+      <DependentUpon>Service.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffDB.resx">
+      <DependentUpon>StaffDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vehicle.resx">
+      <DependentUpon>Vehicle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Welcome.resx">
+      <DependentUpon>Welcome.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\welcome.jpg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PPDAC_Property_Highlights_Image_2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\hotel.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jp.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PPDAC_Property_Introduction_Image_2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PPDAC_Property_Highlights_Image_1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\loginlobby.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PPDAC_CafeBazar_Feature_Image.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PPDAC_Property_Highlights_Image_21.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\hotel2.0.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\giphy.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hotel.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo2.01.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo2.02.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo for jpg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo2.03.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo2.04.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo2.05.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo2.06.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png-transparent-button-back-s-blue-text-window-thumbnail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\send code.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\send code1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pphg-spring-into-savings-2025-masthead.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pphg-celebrations-room-offer-masthead-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pphg-global-exclusively-yours-masthead1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\guest dining.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\guest dining 2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vehicel.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\life and.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\guest dining 3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\room11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\services.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pull1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pull.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\finalpull.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gym1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\parking.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\parking1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\parkin2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\parking22.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\master.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\visa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pay.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\paymentdone.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pdone.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\confirmpage.gif" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
