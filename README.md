@@ -12,7 +12,6 @@ Hotel_Management_System.bacpac
 
 1. Open SQL Server Management Studio (SSMS).
 2. Connect to:
-
 ```txt
 Your Server name\SQLEXPRESS
 ```
